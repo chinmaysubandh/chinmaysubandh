@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chinmay</h1>
-<h3 align="center">A passionate frontend developer from India.👯 I am a passionate and dedicated frontend developer focused on creating modern, responsive, and engaging web experiences. I am currently sharpening my skills with React.js, Tailwind CSS, Framer Motion, and Redux to build clean, dynamic user interfaces. I enjoy transforming ideas into interactive applications and continuously strive to improve my craft through hands-on learning and real-world projects.</h3>
+<h4 align="center">A passionate frontend developer from India.I am a passionate and dedicated frontend developer focused on creating modern, responsive, and engaging web experiences. I enjoy transforming ideas into interactive applications and continuously strive to improve my craft through hands-on learning and real-world projects.</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmaysubandh" alt="chinmaysubandh" /></a> </p>
 
