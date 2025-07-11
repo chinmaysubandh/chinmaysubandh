@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [DevOutlets](https://github.com/chinmaysubandh/DevOutlets)
 
-- 🌱 I’m currently learning **Reactjs,redux,framer motion,GSAP,Shadcn**
+- 🌱 I’m currently learning **Reactjs,recoil,framer motion,GSAP and Shadcn**
 
 - 💬 Ask me about **React.js**
 
